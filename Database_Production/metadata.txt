@@ -1,0 +1,6 @@
+File_Name | Source | Scope | Description
+Data2011.csv | Geodatabase Files & NHGIS| Geographies: MSAs of study, by BG | 2011 census data (selected variables only) 
+Data2012.csv | Geodatabase Files | Geographies: MSAs of study, by BG | 2012 census data (selected variables only)
+GeoIDs.csv | created | Geographies | compiled geographical descriptions and codes for MSAs in the study
+Variables.csv | created | na | list of variable names for each year of data download
+zipcodestoextract.csv | Census ZCTA to Census Tract relationship file & 2020 geodatabase file | Geographies: MSAs of study, by BG | list of zipcodes that fall within the study geography (according to 2020 boundaries)
