@@ -1,0 +1,43 @@
+MSA,State,County,StateFP,CountyFP,StateCounty,MSAFP
+Delaware Valley,Delaware,New Castle County,10,003,10003,37980
+Delaware Valley,Maryland,Cecil County,24,015,24015,37980
+Greater Boston,Massachusetts,Essex County,25,009,25009,14460
+Greater Boston,Massachusetts,Middlesex County,25,017,25017,14460
+Greater Boston,Massachusetts,Norfolk County,25,021,25021,14460
+Greater Boston,Massachusetts,Plymouth County,25,023,25023,14460
+Greater Boston,Massachusetts,Suffolk County,25,025,25025,14460
+Flint,Michigan,Genesee County,26,049,26049,22420
+Metro Detroit,Michigan,Lapeer County,26,087,26087,19820
+Metro Detroit,Michigan,Livingston County,26,093,26093,19820
+Metro Detroit,Michigan,Macomb County,26,099,26099,19820
+Metro Detroit,Michigan,Oakland County,26,125,26125,19820
+Metro Detroit,Michigan,St. Clair County,26,147,26147,19820
+Metro Detroit,Michigan,Wayne County,26,163,26163,19820
+Greater Boston,New Hampshire,Rockingham County,33,015,33015,14460
+Greater Boston,New Hampshire,Strafford County,33,017,33017,14460
+Delaware Valley,New Jersey,Burlington County,34,005,34005,37980
+Delaware Valley,New Jersey,Camden County,34,007,34007,37980
+Delaware Valley,New Jersey,Gloucester County,34,015,34015,37980
+Delaware Valley,New Jersey,Salem County,34,033,34033,37980
+Greater Cleveland,Ohio,Cuyahoga County,39,035,39035,17460
+Greater Cleveland,Ohio,Geauga County,39,055,39055,17460
+Greater Cleveland,Ohio,Lake County,39,085,39085,17460
+Greater Cleveland,Ohio,Lorain County,39,093,39093,17460
+Greater Cleveland,Ohio,Medina County,39,103,39103,17460
+Greater Akron,Ohio,Portage County,39,133,39133,10420
+Greater Akron,Ohio,Summit County,39,153,39153,10420
+Delaware Valley,Pennsylvania,Bucks County,42,017,42017,37980
+Delaware Valley,Pennsylvania,Chester County,42,029,42029,37980
+Delaware Valley,Pennsylvania,Delaware County,42,045,42045,37980
+Delaware Valley,Pennsylvania,Montgomery County,42,091,42091,37980
+Delaware Valley,Pennsylvania,Philadelphia County,42,101,42101,37980
+Greater Austin,Texas,Bastrop County,48,021,48021,12420
+Greater Austin,Texas,Caldwell County,48,055,48055,12420
+Greater Austin,Texas,Hays County,48,209,48209,12420
+Greater Austin,Texas,Travis County,48,453,48453,12420
+Greater Austin,Texas,Williamson County,48,491,48491,12420
+Charleston,West Virginia,Boone County,54,005,54005,16620
+Charleston,West Virginia,Clay County,54,015,54015,16620
+Charleston,West Virginia,Jackson County,54,035,54035,16620
+Charleston,West Virginia,Kanawha County,54,039,54039,16620
+Charleston,West Virginia,Lincoln County,54,043,54043,16620
