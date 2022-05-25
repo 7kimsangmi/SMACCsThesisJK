@@ -24,7 +24,13 @@ Here it is evident that the block groups (at least the names) do not remain cons
 
 
 #### Cleaning
+<p> Next is removing all the rows with no data at all. While where there are some missing pieces of information for some block groups, others have no data across any of the variables downloaded -- these rows have been removed and a cleaned dataframe saved as <a href="https://github.com/7kimsangmi/SMACCs_Thesis/blob/main/Database_Production/cleaneddatadf.zip">cleandatadf.zip</a>.</p>
+Reviewing how many block groups are left in each year of the database:<br>
+<img src="https://github.com/7kimsangmi/SMACCs_Thesis/blob/main/Database_Production/Images/cleaneddatadf_groupby_uniquelocationsperyear.png?raw=true" alt="Block Groups per Year, cleaned data">
 
+Total data count 201728 --> 200512 = 1216 null rows dropped. 
+
+#### Crosswalks
 
 ### Livability Index
 Pulled from AARP's Livability Index matching zip codes to census tracts
